@@ -40,3 +40,7 @@ GMT绘图要求给出每一个小矩形四个顶点的三维坐标，例如：
     C = B + D
 ```
 这里计算出的就是每一个小矩形四个顶点ABCD的坐标
+
+## 赞赏
+如果你觉得这个程序有用，不妨微信赞赏一下
+![IMG_4252](https://github.com/user-attachments/assets/fde857a7-92d3-449c-947e-907c253cc4aa)
